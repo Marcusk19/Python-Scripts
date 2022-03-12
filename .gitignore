@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+panotop_script/panoptop.txt
+panotop_script/panoptop_new.txt
