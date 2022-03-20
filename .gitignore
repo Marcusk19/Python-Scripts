@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 panotop_script/panoptop.txt
 panotop_script/panoptop_new.txt
+bookmarks/pretty.json
+bookmarks/bookmarks-2022-03-20.json
+bookmarks/ReadingList.md
