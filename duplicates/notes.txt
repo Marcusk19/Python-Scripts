@@ -1,0 +1,3 @@
+for f in *; do
+python3 ../duplicates.py $f
+done
